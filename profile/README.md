@@ -11,23 +11,23 @@
     <th>Owner</th>
     <th>Founders</th>
     <th>Community Leaders</th>
-    <th>tba</th>
-    <th>tba</th>
+    <th>SA:MP RP Leadership</th>
+    <th>GTA:V RP Leadership</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>HellFury</td>
     <td>realdiegopoptart</td>
-    <td></td>
-    <td></td>
+    <td>TBA</td>
+    <td>realdiegopoptart</td>
     <td></td>
   </tr>
   <tr>
     <td>Ragnarok</td>
     <td>Ragnarok</td>
-    <td></td>
-    <td></td>
+    <td>TBA</td>
+    <td>TBA</td>
     <td></td>
   </tr>
   <tr>
