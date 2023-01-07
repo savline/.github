@@ -8,30 +8,34 @@
 <table>
 <thead>
   <tr>
-    <th>Owner</th>
+    <th>Owners</th>
     <th>Founders</th>
     <th>Community Leaders</th>
-    <th>SA:MP RP Leadership</th>
-    <th>GTA:V RP Leadership</th>
+    <th>V:MP Leaders<br></th>
+    <th>SA:MP Developers</th>
+    <th>V:MP Developers</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>HellFury</td>
     <td>realdiegopoptart</td>
-    <td>TBA</td>
-    <td>TBA</td>
+    <td>n/a</td>
+    <td>realdiegopoptart</td>
+    <td>danuts</td>
     <td>realdiegopoptart</td>
   </tr>
   <tr>
     <td>Ragnarok</td>
     <td>Ragnarok</td>
-    <td>TBA</td>
-    <td>TBA</td>
-    <td>TBA</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td></td>
+    <td>Galax</td>
     <td></td>
     <td></td>
     <td></td>
