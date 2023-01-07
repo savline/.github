@@ -20,15 +20,15 @@
     <td>HellFury</td>
     <td>realdiegopoptart</td>
     <td>TBA</td>
+    <td>TBA</td>
     <td>realdiegopoptart</td>
-    <td></td>
   </tr>
   <tr>
     <td>Ragnarok</td>
     <td>Ragnarok</td>
     <td>TBA</td>
     <td>TBA</td>
-    <td></td>
+    <td>TBA</td>
   </tr>
   <tr>
     <td></td>
