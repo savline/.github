@@ -4,6 +4,7 @@
 <img width="600" src="https://github.com/savline/presskit/blob/main/rp-banner.png?raw=true">
 </p>
 
+<div align="center">
 <table>
 <thead>
   <tr>
@@ -38,3 +39,4 @@
   </tr>
 </tbody>
 </table>
+  </div>
