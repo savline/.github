@@ -1,6 +1,6 @@
 # Savline Roleplay
 
-<img src="https://github.com/savline/presskit/blob/main/rp-banner.png?raw=true">
+<img style="height=20px"src="https://github.com/savline/presskit/blob/main/rp-banner.png?raw=true">
 
 
 | Owner    | Founders         | Community Leaders | tba | tba |
