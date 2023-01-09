@@ -9,7 +9,6 @@
 <thead>
   <tr>
     <th>Owners</th>
-    <th>Founders</th>
     <th>Community Leaders</th>
     <th>V:MP Leaders<br></th>
     <th>SA:MP Developers</th>
@@ -19,7 +18,6 @@
 <tbody>
   <tr>
     <td>HellFury</td>
-    <td>realdiegopoptart</td>
     <td>n/a</td>
     <td>realdiegopoptart</td>
     <td>danuts</td>
@@ -27,15 +25,6 @@
   </tr>
   <tr>
     <td>Ragnarok</td>
-    <td>Ragnarok</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Galax</td>
     <td></td>
     <td></td>
     <td></td>
