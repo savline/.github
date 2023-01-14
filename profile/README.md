@@ -8,12 +8,14 @@
 <table>
 <thead>
   <tr>
-    <th>Owners</th>
+    <th>Community Owners</th>
     <th>Community Leaders</th>
-    <th>alt:V Leaders<br></th>
-    <th>SA:MP Leaders<br></th>
+    <th>alt:V Leaders</th>
+    <th>SA:MP Leaders</th>
+    <th>MTA Leaders<br</th>
     <th>alt:V Developers</th>
     <th>SA:MP Developers</th>
+    <th>MTA Developers</th
   </tr>
 </thead>
 <tbody>
@@ -22,11 +24,15 @@
     <td>n/a</td>
     <td>Scaveng3r</td>
     <td>danuts</td>
+    <td>danuts</td>
     <td>Scaveng3r</td>
+    <td>danuts</td>
     <td>danuts</td>
   </tr>
   <tr>
     <td>Ragnarok</td>
+    <td></td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
