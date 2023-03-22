@@ -13,9 +13,11 @@
     <th>alt:V Leaders</th>
     <th>IV:MP RP Leaders</th>
     <th>MTA:SA RP Leaders<br</th>
+    <th>VC:MP RP Leaders<br</th>
     <th>alt:V RP Developers</th>
     <th>IV:MP RP Developers</th>
-    <th>MTA:SA RP Developers</th
+    <th>MTA:SA RP Developers</th>
+    <th>VC:MP RP Developers</th>
   </tr>
 </thead>
 <tbody>
@@ -25,9 +27,11 @@
     <td>DevJoyBoy</td>
     <td>Lion</td>
     <td>danuts</td>
+    <td>hiki</td>
     <td>DevJoyBoy</td>
     <td>Lion</td>
     <td>danuts</td>
+    <td>hiki</td>
   </tr>
   <tr>
     <td>Ragnarok</td>
