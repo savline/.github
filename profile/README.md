@@ -27,7 +27,7 @@
     <td>DevJoyBoy</td>
     <td>Lion</td>
     <td>danuts</td>
-    <td>hiki</td>
+    <td></td>
     <td>DevJoyBoy</td>
     <td>Lion</td>
     <td>danuts</td>
