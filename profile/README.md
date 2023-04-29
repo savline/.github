@@ -31,7 +31,7 @@
     <td>DevJoyBoy</td>
     <td>Lion</td>
     <td>danuts</td>
-    <td>hiki</td>
+    <td>Inferno</td>
   </tr>
   <tr>
     <td>Ragnarok</td>
@@ -43,7 +43,7 @@
     <td></td>
     <td></td>
     <td>debin</td>
-    <td></td>
+    <td>Pratham</td>
   </tr>
 </tbody>
 </table>
