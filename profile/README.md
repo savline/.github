@@ -1,7 +1,7 @@
 # Savline Roleplay
 
 <p align="center">
-<img width="600" src="https://github.com/savline/presskit/blob/main/rp-banner.png?raw=true">
+<img width="1200" src="https://i.imgur.com/jCFwIyz.jpg">
 </p>
 
 <div align="center">
@@ -23,27 +23,27 @@
 <tbody>
   <tr>
     <td>HellFury</td>
-    <td>n/a</td>
+    <td>danut</td>
     <td>DevJoyBoy</td>
     <td>Lion</td>
-    <td>danuts</td>
+    <td>Timeline</td>
     <td></td>
     <td>DevJoyBoy</td>
     <td>Lion</td>
-    <td>danuts</td>
-    <td>Inferno</td>
+    <td>Lambs</td>
+    <td>Motley</td>
   </tr>
   <tr>
     <td>Ragnarok</td>
     <td></td>
-    <td>danuts</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
+    <td>danut</td>
     <td></td>
-    <td>debin</td>
-    <td>Pratham</td>
+    <td>Ianec</td>
+    <td>SEVASuit</td>
   </tr>
 </tbody>
 </table>
