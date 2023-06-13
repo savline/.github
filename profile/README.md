@@ -26,7 +26,7 @@
     <td>danut</td>
     <td>DevJoyBoy</td>
     <td>Lion</td>
-    <td>Timeline</td>
+    <td>Lambs</td>
     <td></td>
     <td>DevJoyBoy</td>
     <td>Lion</td>
@@ -42,7 +42,7 @@
     <td></td>
     <td>danut</td>
     <td></td>
-    <td>Ianec</td>
+    <td>gergo</td>
     <td>SEVASuit</td>
   </tr>
 </tbody>
