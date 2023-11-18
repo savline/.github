@@ -14,37 +14,25 @@
     <th>IV:MP RP Leaders</th>
     <th>MTA:SA RP Leaders<br</th>
     <th>VC:MP RP Leaders<br</th>
-    <th>alt:V RP Developers</th>
-    <th>IV:MP RP Developers</th>
-    <th>MTA:SA RP Developers</th>
-    <th>VC:MP RP Developers</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>HellFury</td>
-    <td>danut</td>
-    <td>DevJoyBoy</td>
-    <td>Lion</td>
-    <td>Lambs</td>
-    <td></td>
-    <td>DevJoyBoy</td>
-    <td>Lion</td>
-    <td>Lambs</td>
-    <td>Motley</td>
+    <td align="center">HellFury</td>
+    <td align="center"></td>
+    <td align="center">EndriM</td>
+    <td align="center"></td>
+    <td align="center">Lambs</td>
+    <td align="center"></td>
   </tr>
   <tr>
-    <td>Ragnarok</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>danut</td>
-    <td></td>
-    <td>gergo</td>
-    <td>SEVASuit</td>
-  </tr>
+    <td align="center">Ragnarok</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">Gruia</td>
+    <td align="center"></td>
+    </tr>
 </tbody>
 </table>
   </div>
