@@ -10,7 +10,7 @@
   <tr>
     <th>Community Owners</th>
     <th>Community Leaders</th>
-    <th>alt:V Leaders</th>
+    <th>alt:V RP Leaders</th>
     <th>IV:MP RP Leaders</th>
     <th>MTA:SA RP Leaders<br</th>
     <th>VC:MP RP Leaders<br</th>
