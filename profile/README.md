@@ -28,7 +28,7 @@
   <tr>
     <td align="center">Ragnarok</td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">HoMa86</td>
     <td align="center"></td>
     <td align="center">Gruia</td>
     <td align="center"></td>
