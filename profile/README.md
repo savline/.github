@@ -20,7 +20,7 @@
   <tr>
     <td align="center">HellFury</td>
     <td align="center"></td>
-    <td align="center">EndriM</td>
+    <td align="center"></td>
     <td align="center"></td>
     <td align="center">Lambs</td>
     <td align="center"></td>
@@ -28,7 +28,7 @@
   <tr>
     <td align="center">Ragnarok</td>
     <td align="center"></td>
-    <td align="center">HoMa86</td>
+    <td align="center"></td>
     <td align="center"></td>
     <td align="center">Gruia</td>
     <td align="center"></td>
