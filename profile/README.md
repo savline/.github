@@ -21,9 +21,9 @@
 <tbody>
   <tr>
     <td align="center">Wuskie and HellFury</td>
-    <td align="center">Gruia, Natsu, Badandy, Yazan, Joaoadao & Yaan</td>
+    <td align="center">Gruia, Natsu, Yazan, Joaoadao & Yaan</td>
     <td align="center">Wuskie</td>
-    <td align="center">Mike and Yazan</td>
+    <td align="center">Damon and Yazan</td>
     <td align="center">Builder and Mike</td>
     <!--<td align="center"></td>-->
   </tr>
