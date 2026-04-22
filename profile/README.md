@@ -21,7 +21,7 @@
 <tbody>
   <tr>
     <td align="center">HellFury</td>
-    <td align="center">Fooo & Joaoadao</td>
+    <td align="center">Tayga & Joaoadao</td>
     <!--<td align="center"></td>-->
     <td align="center">Mike</td>
     <!--<td align="center">Builder and Mike</td>-->
